@@ -1,3 +1,6 @@
+## 追記
+from lxml import etree
+
 # EpubRename2Title
 ## 概要
 epubファイルのファイル名をメタデータに保存されている書籍名(タイトル)にリネームします．  
