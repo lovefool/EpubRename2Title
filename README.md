@@ -1,5 +1,6 @@
 ## 追記
-from lxml import etree
+
+pip install lxml
 
 # EpubRename2Title
 ## 概要
